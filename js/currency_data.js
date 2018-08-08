@@ -30,7 +30,7 @@ submit.addEventListener('click', async (e) => {
 
 function load() {
   preLoader.style.display = 'block';
-  const loading = setTimeout(showResult, 1200);
+  const loading = setTimeout(showResult, 1100);
 }
 
 function showResult() {

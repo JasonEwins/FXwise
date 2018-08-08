@@ -262,6 +262,7 @@ Calc results styles
 
 .calc__result--success {
   margin-top: 7px;
+  animation: opacity-fade 2s linear infinite;
 }
 
 .calc__result--request {
@@ -289,4 +290,10 @@ animation
 @keyframes opacity { 
   from{ opacity:0 } 
   to{ opacity:1 }
+}
+
+@keyframes opacity-fade { 
+  0% { opacity:1 }
+  50%{ opacity:0.3 } 
+  100% { opacity:1 }
 }
