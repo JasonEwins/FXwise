@@ -216,11 +216,29 @@ select {
 Calc results styles
 ------------------*/
 
+.calc__result-loader {
+  display: none;
+  margin-top: 7rem;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  border: 5px solid #f3f3f3;
+  border-top: 5px solid var(--main-text-color); 
+  border-radius: 50%;
+  width: 5.4rem;
+  height: 5.4rem;
+  animation: spin 0.9s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
 .calc__result {
   display: none;
   text-align: center;
+  animation: opacity 1s;
 }
- 
 
 .calc__result-exchange-rate {
   font-size: 2rem;
@@ -263,4 +281,12 @@ Calc results styles
   font-size: 1.4rem;
   font-weight: 300;
   color: #919191;
+}
+
+/*------
+animation
+-------*/
+@keyframes opacity { 
+  from{ opacity:0 } 
+  to{ opacity:1 }
 }
