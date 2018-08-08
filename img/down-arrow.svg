@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="17px" height="10px" viewBox="0 0 17 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>down-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="FXwise" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-979.000000, -424.000000)">
+        <g id="Calculator-v1" transform="translate(268.000000, 368.000000)" fill="#2D2F39" fill-rule="nonzero">
+            <g id="Euros" transform="translate(531.000000, 0.000000)">
+                <g id="down-arrow" transform="translate(180.000000, 56.000000)">
+                    <path d="M16.8291053,0.177971015 C16.5947575,-0.0593236717 16.2139422,-0.0593236717 15.9795944,0.177971015 L8.50975648,7.75657008 L1.02527187,0.177971015 C0.79092401,-0.0593236717 0.410108746,-0.0593236717 0.175760891,0.177971015 C-0.0585869637,0.415265702 -0.0585869637,0.800869569 0.175760891,1.03816426 L8.07035425,9.03202902 C8.18752818,9.15067637 8.33399559,9.21000004 8.49510974,9.21000004 C8.64157715,9.21000004 8.8026913,9.15067637 8.91986523,9.03202902 L16.8144586,1.03816426 C17.0634532,0.800869569 17.0634532,0.415265702 16.8291053,0.177971015 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

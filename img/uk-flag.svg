@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="51px" height="35px" viewBox="0 0 51 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>united-kingdom (1)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="FXwise" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-538.000000, -412.000000)">
+        <g id="Calculator-v1" transform="translate(268.000000, 368.000000)" fill-rule="nonzero">
+            <g id="British" transform="translate(258.000000, 0.000000)">
+                <g id="united-kingdom-(1)" transform="translate(12.000000, 44.000000)">
+                    <rect id="Rectangle-path" fill="#F0F0F0" x="0" y="0.0331699219" width="51" height="34.0003652"></rect>
+                    <polygon id="Shape" fill="#D80027" points="28.6875 0.0328710937 22.3125 0.0328710937 22.3125 13.8453047 0 13.8453047 0 20.2203047 22.3125 20.2203047 22.3125 34.0327383 28.6875 34.0327383 28.6875 20.2203047 51 20.2203047 51 13.8453047 28.6875 13.8453047"></polygon>
+                    <g id="Group" transform="translate(30.978516, 22.910156)" fill="#0052B4">
+                        <polygon id="Shape" points="8.24616211 0.0356601563 20.0214844 6.57760547 20.0214844 0.0356601563"></polygon>
+                        <polygon id="Shape" points="0.0649453125 0.0356601563 20.0214844 11.122582 20.0214844 7.98747656 5.70831445 0.0356601563"></polygon>
+                        <polygon id="Shape" points="14.7057305 11.122582 0.0649453125 2.98808203 0.0649453125 11.122582"></polygon>
+                    </g>
+                    <polygon id="Shape" fill="#F0F0F0" points="31.0434609 22.9458164 51 34.0327383 51 30.8976328 36.6868301 22.9458164"></polygon>
+                    <polygon id="Shape" fill="#D80027" points="31.0434609 22.9458164 51 34.0327383 51 30.8976328 36.6868301 22.9458164"></polygon>
+                    <g id="Group" transform="translate(0.000000, 22.910156)" fill="#0052B4">
+                        <polygon id="Shape" points="8.99881055 0.0354609375 0 5.03485547 0 0.0354609375"></polygon>
+                        <polygon id="Shape" points="19.9565391 1.44533203 19.9565391 11.1224824 2.53914258 11.1224824"></polygon>
+                    </g>
+                    <polygon id="Shape" fill="#D80027" points="14.3131699 22.9458164 0 30.8976328 0 34.0327383 0 34.0327383 19.9565391 22.9458164"></polygon>
+                    <g id="Group" fill="#0052B4">
+                        <polygon id="Shape" points="11.7753223 11.119793 0 4.57784766 0 11.119793"></polygon>
+                        <polygon id="Shape" points="19.9565391 11.119793 0 0.0328710937 0 3.16797656 14.3131699 11.119793"></polygon>
+                        <polygon id="Shape" points="5.31575391 0.0328710937 19.9565391 8.16737109 19.9565391 0.0328710937"></polygon>
+                    </g>
+                    <polygon id="Shape" fill="#F0F0F0" points="19.9565391 11.119793 0 0.0328710937 0 3.16797656 14.3131699 11.119793"></polygon>
+                    <polygon id="Shape" fill="#D80027" points="19.9565391 11.119793 0 0.0328710937 0 3.16797656 14.3131699 11.119793"></polygon>
+                    <g id="Group" transform="translate(30.978516, 0.000000)" fill="#0052B4">
+                        <polygon id="Shape" points="11.0226738 11.1199922 20.0214844 6.12059766 20.0214844 11.1199922"></polygon>
+                        <polygon id="Shape" points="0.0649453125 9.71012109 0.0649453125 0.0329707031 17.4823418 0.0329707031"></polygon>
+                    </g>
+                    <polygon id="Shape" fill="#D80027" points="36.6868301 11.119793 51 3.16797656 51 0.0328710937 51 0.0328710937 31.0434609 11.119793"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

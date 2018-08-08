@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <title>FXwise | Get the best price for your money transfer</title>
+  </head>
+<body>
+  <div class="outer--container">
+    <header>
+      <a href="#"><img class="header__logo" src="img/logo.svg"></a>
+      <nav>
+        <a class="header__nav-item" href="/about">About</a>
+        <a class="header__nav-item" href="/partners">Partners</a>
+        <a class="header__btn btn" href="/partners">Transfer money</a>
+      </nav>
+    </header>
+    <main>
+      <div class="main__intro">
+        <h1>Check the best money transfer rates</h1>
+        <p>Search the latest Foreign Exchange rates and find the best price for your transfer with our trusted partners.</p>
+        </div>
+        <section class="main__calc--container">
+        <form class="main__calc">
+          <div class="main__calc-fields">
+            <label for="amount">I want to convert</label>
+            <input class="calc--amount" type="text" placeholder="enter amount..." name="amount" value=''>
+          </div>
+          <div class="main__calc-fields">
+            <label class="m-left-s" for="from">From</label>
+            <select class="calc--from calc--from-currency calc--dropdown m-left-s" name="from">
+              <option class="calc--from-value" value="GBP">
+                GBP-<span class="currency">British Pound</span>
+                  </option>
+              <option value="USD">
+                USD-<span class="currency">US Dollar</span>
+              </option>
+              <option value="EUR">
+                EUR-<span class="currency">Euro</span>
+              </option>
+              <option value="AUD">
+                AUD-<span class="currency">Australian Dollar</span>
+              </option>
+              <option value="CAD"> 
+                  CAD-<span class="currency">Canadian Dollar</span>
+              </option>
+              <option value="CHF">
+                CHF-<span class="currency">Swiss Franc</span>
+              </option>
+              <option value="SGD">
+                SGD-<span class="currency">Singapore Dollar</span>
+              </option>
+              <option value="NZD">
+                NZD-<span class="currency">New Zealand Dollar</span>
+              </option>
+              <option value="INR">
+                INR-<span class="currency">Indian Rupee</span>
+              </option>
+            </select>
+          </div>
+          <img class="main--calc-arrow" src="img/right-arrow.svg" />
+          <div class="main__calc-fields">
+            <label class="" for="to" >To</label>
+            <select class="calc--to calc--dropdown" name="to" value="">
+              <option class="calc--to-value" value="EUR">
+                EUR-<span class="currency">Euro</span>
+              </option>
+              <option value="USD">
+                USD-<span class="currency">US Dollar</span>
+              </option>
+              <option value="GBP">
+                GBP-<span class="currency">British Pounds</span>
+              </option>
+              <option value="AUD">
+                AUD-<span class="currency">Australian Dollar</span>
+              </option>
+              <option value="CAD"> 
+                CAD-<span class="currency">Canadian Dollar</span>
+              </option>
+              <option value="CHF">
+                CHF-<span class="currency">Swiss Franc</span>
+              </option>
+              <option value="SGD">
+                SGD-<span class="currency">Singapore Dollar</span>
+              </option>
+              <option value="NZD">
+                NZD-<span class="currency">New Zealand Dollar</span>
+              </option>
+              <option value="INR">
+                INR-<span class="currency">Indian Rupee</span>
+              </option>
+            </select>
+          </div>
+          <button class="calc--submit btn" type="submit">Get rate</button>
+        </form>
+        </section>
+        
+        <section class="calc__result">
+          <div class="calc__result-exchange-rate">1 GBP = 0.8666 EUR</div>
+          <span class="calc__result--base-currency">
+            100 GBP =
+          </span>
+          <div class="calc__result--inner-container">
+            <img class="calc__result--success" src="img/success.svg"/>
+            <span class="calc__result--request">
+              €111.939 
+            </span>
+            <span class="calc__result--request-currency">
+            EUR
+            </span>
+          </div>
+          <span class="calc__result--timestamp">
+            price correct as of 10:39 GMT
+          </span>
+        </section>
+        
+
+    </main>
+  </div>
+
+<script src="js/currency_data.js"></script>
+<script src="js/helper.js"></script>  
+</body>
+</html>
