@@ -297,3 +297,7 @@ animation
   50%{ opacity:0.3 } 
   100% { opacity:1 }
 }
+
+#chart {
+  max-width: 22rem;
+}
